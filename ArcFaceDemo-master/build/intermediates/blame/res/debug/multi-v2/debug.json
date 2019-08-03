@@ -1,0 +1,78 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Android\\ArcFaceDemo-master\\ArcFaceDemo-master\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\android-extend-1.0.6.aar\\0e11e949ddc002a9d35f253d7b617958\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,8,13,20,23,29",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,349,587,878,1038,1348",
+                        "endLines": "7,11,19,22,28,35",
+                        "endColumns": "24,24,12,12,9,9",
+                        "endOffsets": "344,521,873,1033,1343,1718"
+                    },
+                    "to": {
+                        "startLines": "5,11,16,23,26,32",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "199,493,716,1007,1167,1477",
+                        "endLines": "10,14,22,25,31,38",
+                        "endColumns": "24,24,12,12,9,9",
+                        "endOffsets": "488,665,1002,1162,1472,1847"
+                    }
+                },
+                {
+                    "source": "D:\\Android\\ArcFaceDemo-master\\ArcFaceDemo-master\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "45",
+                        "endOffsets": "57"
+                    },
+                    "to": {
+                        "startLines": "15",
+                        "startColumns": "4",
+                        "startOffsets": "670",
+                        "endColumns": "45",
+                        "endOffsets": "711"
+                    }
+                },
+                {
+                    "source": "D:\\Android\\ArcFaceDemo-master\\ArcFaceDemo-master\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "153,55,102",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "194,97,148"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,101,148",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "96,143,194"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Android\\ArcFaceDemo-master\\ArcFaceDemo-master\\build\\intermediates\\res\\merged\\debug\\values-v17_values-v17.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\android-extend-1.0.6.aar\\0e11e949ddc002a9d35f253d7b617958\\res\\values-v17\\values-v17.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "7",
+                        "endColumns": "9",
+                        "endOffsets": "359"
+                    }
+                }
+            ]
+        }
+    ]
+}

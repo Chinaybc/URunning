@@ -1,0 +1,100 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [com.guo.android_extend:android-extend:1.0.6] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-extend-1.0.6.aar\0e11e949ddc002a9d35f253d7b617958\AndroidManifest.xml:2:1-19:12
+INJECTED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:2:11-41
+		INJECTED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml
+		ADDED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml
+		ADDED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:3:11-69
+uses-permission#android.permission.CAMERA
+ADDED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:5:5-65
+MERGED from [com.guo.android_extend:android-extend:1.0.6] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-extend-1.0.6.aar\0e11e949ddc002a9d35f253d7b617958\AndroidManifest.xml:15:5-65
+MERGED from [com.guo.android_extend:android-extend:1.0.6] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-extend-1.0.6.aar\0e11e949ddc002a9d35f253d7b617958\AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:7:5-80
+MERGED from [com.guo.android_extend:android-extend:1.0.6] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-extend-1.0.6.aar\0e11e949ddc002a9d35f253d7b617958\AndroidManifest.xml:17:5-81
+MERGED from [com.guo.android_extend:android-extend:1.0.6] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-extend-1.0.6.aar\0e11e949ddc002a9d35f253d7b617958\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.INTERNET
+ADDED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:9:5-66
+MERGED from [com.guo.android_extend:android-extend:1.0.6] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-extend-1.0.6.aar\0e11e949ddc002a9d35f253d7b617958\AndroidManifest.xml:13:5-67
+MERGED from [com.guo.android_extend:android-extend:1.0.6] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-extend-1.0.6.aar\0e11e949ddc002a9d35f253d7b617958\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:9:22-64
+application
+ADDED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:11:5-31:19
+	android:supportsRtl
+		ADDED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:13:9-35
+	android:name
+		ADDED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:12:9-56
+activity#com.arcsoft.sdk_demo.PermissionAcitivity
+ADDED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:17:9-22:20
+	android:name
+		ADDED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:17:19-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:19:17-68
+	android:name
+		ADDED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:20:17-76
+	android:name
+		ADDED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:20:27-74
+activity#com.arcsoft.sdk_demo.RegisterActivity
+ADDED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:23:9-24:20
+	android:name
+		ADDED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:23:19-71
+activity#com.arcsoft.sdk_demo.DetecterActivity
+ADDED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:25:9-26:20
+	android:name
+		ADDED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:25:19-71
+activity#com.arcsoft.sdk_demo.MainActivity
+ADDED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:27:9-28:20
+	android:name
+		ADDED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml:27:19-67
+uses-sdk
+INJECTED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml
+INJECTED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml
+MERGED from [com.guo.android_extend:android-extend:1.0.6] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-extend-1.0.6.aar\0e11e949ddc002a9d35f253d7b617958\AndroidManifest.xml:7:5-9:41
+MERGED from [com.guo.android_extend:android-extend:1.0.6] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-extend-1.0.6.aar\0e11e949ddc002a9d35f253d7b617958\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml
+INJECTED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml
+		ADDED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml
+		ADDED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\ArcFaceDemo-master\ArcFaceDemo-master\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.guo.android_extend:android-extend:1.0.6] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-extend-1.0.6.aar\0e11e949ddc002a9d35f253d7b617958\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from [com.guo.android_extend:android-extend:1.0.6] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\android-extend-1.0.6.aar\0e11e949ddc002a9d35f253d7b617958\AndroidManifest.xml:12:22-73

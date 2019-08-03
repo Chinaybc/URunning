@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Android\\ArcFaceDemo-master\\ArcFaceDemo-master\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v17\\values-v17.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\android-extend-1.0.6.aar\\0e11e949ddc002a9d35f253d7b617958\\res\\values-v17\\values-v17.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "7",
+                        "endColumns": "9",
+                        "endOffsets": "359"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.arcsoft.sdk_demo"
+    android:versionCode="1"
+    android:versionName="1.1" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="24" />
+    <!-- camera -->
+    <uses-permission android:name="android.permission.CAMERA" />
+    <!-- sdcard -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- wifi internet -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!-- wifi internet -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <application
+        android:name="com.arcsoft.sdk_demo.Application"
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:testOnly="true" >
+        <activity android:name="com.arcsoft.sdk_demo.PermissionAcitivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.arcsoft.sdk_demo.RegisterActivity" >
+        </activity>
+        <activity android:name="com.arcsoft.sdk_demo.DetecterActivity" >
+        </activity>
+        <activity android:name="com.arcsoft.sdk_demo.MainActivity" >
+        </activity>
+
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.arcsoft.sdk_demo.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

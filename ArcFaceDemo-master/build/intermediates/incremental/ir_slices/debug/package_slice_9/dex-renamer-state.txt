@@ -1,0 +1,4 @@
+#Sun Dec 16 18:28:13 CST 2018
+base.0=D\:\\Android\\ArcFaceDemo-master\\ArcFaceDemo-master\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
